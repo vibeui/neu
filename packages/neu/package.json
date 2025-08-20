@@ -1,6 +1,6 @@
 {
   "name": "@vibeui/neu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "VibeUI Neu – React component library built with shadcn, Radix, and Tailwind CSS v4",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
