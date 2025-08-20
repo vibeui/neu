@@ -29,7 +29,7 @@ export default function HomePage() {
                                className="text-neumorphic-text-muted hover:text-neumorphic-text transition-colors">
                                 Components
                             </a>
-                            <a href="#docs"
+                            <a href="/docs"
                                className="text-neumorphic-text-muted hover:text-neumorphic-text transition-colors">
                                 Documentation
                             </a>
@@ -49,7 +49,8 @@ export default function HomePage() {
                             </Badge>
                             <h2 className="text-5xl md:text-7xl font-bold text-neumorphic-text font-sans leading-tight">
                                 Beautiful{" "}
-                                <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+                                <span
+                                    className="bg-gradient-to-r from-neumorphic-primary to-neumorphic-text-secondary bg-clip-text text-transparent">
                   Neumorphic
                 </span>{" "}
                                 Design
